@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  box-sizing: border-box;
+  list-style: none;
+  background: transparent;
+  font-family: $font-base;
+  &:focus-visible {
+    outline: none;
+  }
+}
+
+button {
+  cursor: pointer;
+}

@@ -1,0 +1,6 @@
+{
+  "short_name": "Oddaj Rzeczy",
+  "name": "Oddaj Rzeczy - bootcamp React project",
+  "start_url": ".",
+  "display": "standalone"
+}

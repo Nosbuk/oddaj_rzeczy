@@ -1,0 +1,11 @@
+@use "sass:list";
+.buttons-row {
+  display: flex;
+  .button {
+    display: block;
+    width: 310px;
+    height: 120px;
+    border: 1px solid nth($colors, 5);
+    margin: 0 20px;
+  }
+}
